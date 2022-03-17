@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @scetu
-- 👀 I’m interested in .NET 6 (C# & ASP.NET Razor) ABAP, HTML, CSS
+- 👀 I’m interested in .NET 6 (C# & ASP.NET Razor), ABAP, HTML, CSS
 - 🌱 I’m contantly learning
 
 <!---
