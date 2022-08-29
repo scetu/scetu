@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @scetu
-- 👀 I’m interested in .NET 6 (C# & ASP.NET Razor), ABAP, HTML, CSS
-- 🌱 I’m contantly learning
+- 👋 Hi, I'm @scetu
+- 👀 I'm interested in .NET 6 (C# & ASP.NET Razor), ABAP, HTML, CSS
+- 🌱 I'm constantly learning
 
 <!---
 scetu/scetu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
